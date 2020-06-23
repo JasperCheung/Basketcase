@@ -1,6 +1,4 @@
-# Basketcase
-
-![Test Image 1](https://theundefeated.com/wp-content/uploads/2017/06/nbalogo.jpg?w=100)
+# Basketcase ![Test Image 1](https://theundefeated.com/wp-content/uploads/2017/06/nbalogo.jpg?w=100)
 
 A dashboard for NBA player statistics.
 
